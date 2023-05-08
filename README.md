@@ -30,6 +30,6 @@ cd nome_do_projeto
 docker compose up
 ```
 
-4 - Acesse http://localhost:8000/
+5 - Acesse http://localhost:8000/
 
 A página deve exibir o texto: `Hello PHP!`
